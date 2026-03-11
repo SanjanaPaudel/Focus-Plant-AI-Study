@@ -34,4 +34,6 @@
 4. Focus on your work and avoid using your phone to see the plant grow.
 
 ### Demo Video
-<!-- Uploading "demo_video (2).mp4"... -->
+https://github.com/user-attachments/assets/b05fb7a1-77f2-4444-9368-79c15462eac7
+
+
