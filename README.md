@@ -32,3 +32,6 @@
 2. Enter your study duration.
 3. The system will open a full-screen window showing the timer and plant animation.
 4. Focus on your work and avoid using your phone to see the plant grow.
+
+### Demo Video
+<!-- Uploading "demo_video (2).mp4"... -->
